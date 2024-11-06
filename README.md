@@ -1,2 +1,2 @@
 # NotebookLM-experimental-results
-This is repository which constitutes of a requirement for a university assignment where I was tasked with logging any experimental results when exploring the features and documenting the functionalities of Google's NotebookLM
+This is repository which constitutes of a requirement for a university assignment where I was tasked with logging any experimental results when exploring the features and documenting the functionalities of Google's NotebookLM. You can find the link to my Google NotebookLM experimental results here: https://notebooklm.google.com/notebook/4d5c6830-fe28-4041-809b-4134e876f6b0 
